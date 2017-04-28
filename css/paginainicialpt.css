@@ -42,7 +42,7 @@ li a.active {
     color: white;
 }
 
-li a:hover:not(.active) {
+li a:hover {
     background-color:#512525;
     color: white;
 }
