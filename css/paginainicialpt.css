@@ -1,14 +1,15 @@
 h1 { 
-        font-family: serif;
-        color:#515168;
-	      background-image:  url("http://cnttl.org.br/files/imagem/mulheresluta_not3695.jpg");
+        font-family:serif;
+        color:#d60e0e;
+	      background-image:  url("http://espacosocialista.org/portal/wp-content/uploads/2013/01/feministas-copy.jpg");
+          background-repeat:repeat;
         padding: 1cm;
 		text-align: center;
 	      font-size: 50px;	
       }
       h2 {
         color:white;
-        font-family: sans-serif;    
+        font-family:serif;    
         text-align: center;
 	      padding: 0;        
       }
@@ -17,23 +18,23 @@ h1 {
        background-repeat:repeat;
 	       text-align: center;
       }
-      ul {
+      #menu ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
-    background-color:#9e6b6b;
-    float:left;
+    background-color:#210f0f;
     display:inline-block;
-    text-align:center;
+    text-align:left; 
 }
 
-li a {
-    display:block;
+#menu ul li a{
+    display:inline-block;
     color: white;
     padding: 8px 16px;
     text-decoration: none;
-    float: center;
+}
+#menu ul li { 
+display: inline; 
 }
 
 li a.active {
@@ -55,7 +56,7 @@ a {
 	 background-color: black;
           } 
           div {
-          text-align:left;
+          text-align:center;
           padding: 10px;
           background-color:#560606;
           }
