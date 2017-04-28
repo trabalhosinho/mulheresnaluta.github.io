@@ -85,6 +85,7 @@ p {
 }
 footer {
 	padding:2px;
-	background-color:black;
+	background-color:#280606;
+	color:white;
 	display:block;
 }
