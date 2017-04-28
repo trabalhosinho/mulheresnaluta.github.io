@@ -61,7 +61,8 @@ a {
           }
           p {
           color: white;
+		  text-align:center;
           }
           img {
-          text-align: center;
+          margin:auto;
           }
