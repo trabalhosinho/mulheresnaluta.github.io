@@ -76,3 +76,8 @@ img {
         margin: auto;
 	display: block;
 }
+footer {
+	padding:1cm;
+	background-color:black;
+	display:block;
+}
