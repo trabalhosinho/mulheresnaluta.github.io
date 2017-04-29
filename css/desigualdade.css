@@ -1,10 +1,12 @@
 h1 { 
-	font-family:serif; color:red;
-	background-image:  url style="opacity:0.7" ("http://espacosocialista.org/portal/wp-content/uploads/2013/01/feministas-copy.jpg");
+	font-family:serif; 
+	color:red;
+	background-image:  url("http://espacosocialista.org/portal/wp-content/uploads/2013/01/feministas-copy.jpg");
         background-repeat:repeat;
         padding: 1cm;
 	text-align: center;
-	font-size: 50px;	
+	font-size: 50px;
+	opacity:0;
       }
 
 h2 {
@@ -60,6 +62,7 @@ li.motivosb {
    color:white;
    text-decoration:none;
    text-align:left;
+	font-size:25px;
 }      
 a {
 	text-decoration: none;
@@ -70,6 +73,7 @@ a {
 header {
 	color: white;
 	background-color: black;
+	opacity:0.7;
 } 
 
 div {
@@ -81,9 +85,6 @@ div {
 p {
         color: white;
 	text-align:left;
-  font-size:25px;
-}
-
 }
 footer {
 	padding:10px;
