@@ -55,12 +55,12 @@ ul.motivos {
       list-style-type: none;
     	margin: 0;
     	padding: 0;
-      text-align:center;
+      text-align:left;
       }
 li.motivosb {
    color:white;
    text-decoration:none;
-   text-align:center;
+   text-align:left;
 	font-size:25px;
 }      
 a {
