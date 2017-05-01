@@ -64,7 +64,9 @@ ul.motivos {
     	margin: 0;
     	padding: 0;
       text-align:left;
-      }
+		  padding-left: 10%;
+		  padding-right:10%;	  
+		  }	  
 li.motivosb {
    color:white;
    text-decoration:none;
